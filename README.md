@@ -85,7 +85,8 @@ You acknowledge that the company is not obligated to recover your data if you lo
 
 Privacy and Data Protection
 
-Our Privacy Policy explains how we collect, use, and share your personal data. By using our Services, you consent to our data practices as described in the Privacy Policy.
+Our Privacy Policy explains how we collect, use, and share your personal data. By using our Services, you consent to our data practices as described in the Privacy Policy which you may find through this link:
+https://raw.githubusercontent.com/BestBeforeApp/bestbefore-privacy-policy/refs/heads/main/README.md
 
 
 Subscription Plans and Payments
@@ -101,7 +102,8 @@ If you purchased a Subscription Plan through the Google Play Store, you are resp
 
 Payments
 
-Except when required by law, paid Subscription fees are non-refundable. At the moment, all payments for subscription plans are processed by the Google Play Store. We do not collect or store your payment information. For more details, please refer to our Privacy Policy.
+Except when required by law, paid Subscription fees are non-refundable. At the moment, all payments for subscription plans are processed by the Google Play Store. We do not collect or store your payment information. For more details, please refer to our Privacy Policy which you may find through this link:
+https://raw.githubusercontent.com/BestBeforeApp/bestbefore-privacy-policy/refs/heads/main/README.md
 
 
 Intellectual Property
