@@ -15,9 +15,7 @@ Questions or concerns? If you have any questions or concerns about these Terms, 
 
 Use of Services
 
-
 Eligibility
-
 
 Our Services are intended for individuals over the age of 13. If you are under 13, you must have parental or legal guardian consent to create and maintain an account. By using our Services, you affirm that you meet these requirements.
 
