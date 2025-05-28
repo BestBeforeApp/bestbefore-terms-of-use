@@ -38,7 +38,7 @@ Automatic Removal of Inactive Accounts
 
 Your account and data may be manually or automatically removed if:
 
-• It remains inactive for a period of 12 months or has an unpaid subscription.
+• It remains inactive for a period of 12 months or has an unpaid subscription.  
 • It has no data and is inactive for a period of 6 months (i.e., you just created an account and have not used any of the features).
 
 Inactivity is determined based on your lack of access or usage of the Services.
@@ -58,16 +58,16 @@ Acceptable Use
 
 You agree not to use our Services for any unlawful purposes, in a way that could harm our Services or other users, or disrupt the service’s networks or servers. Prohibited activities include, but are not limited to:
 
-• Interfering with and disrupting the Company’s networks and servers.
-• Accessing, sharing, downloading, or uploading illegal material, including but not limited to Child Sexual Abuse Material (CSAM) or related content.
-• Violating or infringing upon the intellectual property rights of the Company or third parties.
-• Engaging in harassment, abuse, harm, defamation, slander, or discrimination based on gender, sexual orientation, religion, ethnicity, race, age, nationality, or disability.
-• Trading, selling, or transferring account ownership to third parties.
-• Encouraging illegal activities or providing instructions for committing illegal acts.
-• Creating multiple free accounts for bulk signups or operating numerous accounts for a single organization or individual.
-• Using fraudulent payment methods, such as stolen credit cards, for subscription payments.
-• Storing or sharing content that violates legal regulations or third-party rights.
-• Attempting unauthorized access to or probing of computing devices (i.e., hacking).
+• Interfering with and disrupting the Company’s networks and servers.  
+• Accessing, sharing, downloading, or uploading illegal material, including but not limited to Child Sexual Abuse Material (CSAM) or related content.  
+• Violating or infringing upon the intellectual property rights of the Company or third parties.  
+• Engaging in harassment, abuse, harm, defamation, slander, or discrimination based on gender, sexual orientation, religion, ethnicity, race, age, nationality, or disability.  
+• Trading, selling, or transferring account ownership to third parties.  
+• Encouraging illegal activities or providing instructions for committing illegal acts.  
+• Creating multiple free accounts for bulk signups or operating numerous accounts for a single organization or individual.  
+• Using fraudulent payment methods, such as stolen credit cards, for subscription payments.  
+• Storing or sharing content that violates legal regulations or third-party rights.  
+• Attempting unauthorized access to or probing of computing devices (i.e., hacking).  
 • Impersonating another person or entity, or falsely stating or otherwise misrepresenting your affiliation with a person or entity.
 
 We do not guarantee data storage for accounts exceeding their Subscription Plan quotas or for those with delayed, missed, or interrupted payments. Unpaid/free accounts that exceed Subscription Plan quotas will receive 30 days’ notice and warnings before potential suspension or deletion, unless they breach other terms, in which case we may act immediately without notice.
@@ -115,8 +115,8 @@ The company does not guarantee the reliability of the service or the security of
 
 To the fullest extent permitted by law, BestBefore shall not be liable for any indirect, incidental, special, consequential, or punitive damages, or any loss of profits or revenues, whether incurred directly or indirectly, or any loss of data, use, goodwill, or other intangible losses, resulting from:
 
-• Your use or inability to use our Services.
-• Any unauthorized access to or use of our servers and/or any personal information stored therein.
+• Your use or inability to use our Services.  
+• Any unauthorized access to or use of our servers and/or any personal information stored therein.  
 • Any interruption or cessation of transmission to or from our Services.
 
 
