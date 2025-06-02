@@ -99,6 +99,11 @@ If you purchased a Subscription Plan through the Google Play Store, you are resp
 **Please note:** Premium features are tied to the Google account used for the purchase via Google Play, not to your BestBefore account. Access to premium features on other devices requires using the same Google account in the Play Store.
 
 
+Shared Access (Premium Feature)
+
+If you use the shared access feature available in the Premium plan, you are responsible for managing who has access to your account and ensuring all collaborators use the service lawfully. BestBefore is not responsible for data loss, modifications, or misuse by individuals you have granted access to.
+
+
 Payments
 
 Except when required by law, paid Subscription fees are non-refundable. At the moment, all payments for subscription plans are processed by the Google Play Store. We do not collect or store your payment information. For more details, please refer to our Privacy Policy which you may find through this link:
@@ -110,6 +115,27 @@ Intellectual Property
 All content, trademarks, and intellectual property associated with BestBefore are the property of the Company or its licensors. You may not use any of these without our prior written permission.
 
 
+User Content
+
+By uploading or inputting any content (including images, text, and product information) into the BestBefore app, you retain ownership of your content. However, you grant BestBefore a worldwide, non-exclusive, royalty-free license to store, display, and use this content solely for the purpose of providing the Services.
+You are solely responsible for the content you upload and must ensure that it does not violate any laws or third-party rights. We reserve the right to remove any content that violates these Terms or is otherwise deemed inappropriate.
+
+
+Device Access and Syncing
+
+Access to premium and shared features may depend on your device settings and proper syncing with the Google Play Store. In particular, premium features are only available when using the same Google account that was used to purchase the subscription. If you install the app on another device or switch accounts, ensure that:  
+• You are signed in to the same Google Play account used for the purchase.  
+• Your device has an active internet connection to verify the subscription.  
+• Google Play Services are functioning correctly on the device.
+
+Failure to meet these conditions may result in temporary loss of access to premium or shared features on that device. BestBefore is not responsible for access issues caused by incorrect Play Store accounts, local device settings, or sync errors.
+
+
+Product and Barcode Data
+
+BestBefore may provide product suggestions, images, or names when scanning barcodes. While we strive to ensure data accuracy, we do not guarantee the correctness or completeness of this information. It is your responsibility to verify all product details and expiration dates.
+
+
 Limitation of Liability
 
 The company does not guarantee the reliability of the service or the security of user data, despite our best efforts. The service is provided "as is", and by using it, you agree not to hold the company accountable or seek compensation for any damages, including loss of use, data, or profits, resulting from the service’s performance or failures. Additionally, the company is not liable for any accidental release of confidential information due to security issues or vulnerabilities. We may update or modify the service at any time without notice. We may, at our discretion, terminate the service without cause or notice.
@@ -119,6 +145,11 @@ To the fullest extent permitted by law, BestBefore shall not be liable for any i
 • Your use or inability to use our Services.  
 • Any unauthorized access to or use of our servers and/or any personal information stored therein.  
 • Any interruption or cessation of transmission to or from our Services.
+
+
+Third-Party Services
+
+Our Services may depend on or integrate with third-party databases or services. We are not responsible for the availability, accuracy, or content provided by such third-party services.
 
 
 Changes to Terms
