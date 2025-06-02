@@ -96,6 +96,7 @@ BestBefore offers one but may in the future offer various subscription plans whi
 We reserve the right to modify the subscription plans, including the pricing and features, at any time. Any changes will be communicated to you in advance and will take effect at the start of your next subscription period. If you do not agree with the changes, you may cancel your subscription before the new terms apply.
 
 If you purchased a Subscription Plan through the Google Play Store, you are responsible for managing your subscription, payments, and billing.
+**Please note:** Premium features are tied to the Google account used for the purchase via Google Play, not to your BestBefore account. Access to premium features on other devices requires using the same Google account in the Play Store.
 
 
 Payments
